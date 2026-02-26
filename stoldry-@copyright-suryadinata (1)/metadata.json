@@ -1,0 +1,8 @@
+{
+  "name": "STOLDRY @COPYRIGHT SURYADINATA",
+  "description": "Professional Inventory System with Local-First Persistence and Google Sheets Cloud Backup.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
